@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20220207T115125Z
+DTSTART:20220210T080000Z
+DTEND:20220210T083000Z
+SUMMARY:Update on Your Graduate Trainee Application: Interview Invitation
+ 
+UID:d5a8a97e-0aae-4832-8bb6-7f9a2fbd541b@smartrecruiters.com
+LOCATION:https://meet.google.com/fce-pteh-ays
+ORGANIZER;ROLE=NON-PARTICIPANT;CN=Recruitment Team:mailto:b699effd-169b-4
+ 9cc-8ed9-c932d179909f@calendar.smartrecruiters.com
+ATTENDEE;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;ROLE=REQ-PARTICIPANT;CN=Calvin M
+ ensah:mailto:mightymanmensah@gmail.com
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Schedule for interview between AmaliTech and Calvin Mensah\, 
+ candidate for Graduate Trainee  (P6.GTP/07/21)\n\n8:00 AM - 8:30 AM (Abi
+ djan) Recruitment Team\, Sharon Tracy Phanos\n\n\n\n
+END:VEVENT
+END:VCALENDAR
